@@ -106,4 +106,21 @@ img {
     border-radius:25px;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 180px 400px;
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: 900;
+    font-size:25px;
+    margin-top: 20px;
+}
+ 
+
 
