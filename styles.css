@@ -81,6 +81,7 @@ padding: 20px;
     justify-content: space-around;
     flex:auto;
     margin:50px;
+    align-items: center;
 }
 
 .top-sign {
@@ -120,6 +121,26 @@ img {
     font-weight: 900;
     font-size:25px;
     margin-top: 20px;
+}
+
+.section-four {
+    margin: 100px 150px;
+    display:flex;
+    justify-content: space-around;
+    padding:50px 100px;
+    border-radius:12px;
+    flex-wrap: wrap;
+}
+
+.btn {
+  border-color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
 }
  
 
